@@ -16,16 +16,9 @@ const getBook = (req, res) => {
 }
 
 // POST Method
-const postBook = (req, res) => {
-    // const schema = Joi.object({
-    //     name:Joi
-    //     .string()
-    //     .required()
-    //     .min(5)
-    //     .max(20) 
-    // });
-    
+const postBook = (req, res) => {    
     const {error} = validateBook(req.body);
+    
     if(error) 
         res.status(400).send(error.details[0].message);
 
