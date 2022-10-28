@@ -14,5 +14,3 @@ Ishga Tushirish
 ```bash
 npm run dev
 ```
-
-<i>Nodejs</i>
