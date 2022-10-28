@@ -2,8 +2,8 @@
 Serverni ishga tushirish
 loyihani klon qilib oling
 ```bash
-<i>git clone https://github.com/genezisuz/rest-server.git
-cd rest-server</i>
+git clone https://github.com/genezisuz/rest-server.git
+cd rest-server
 ```
 Dasturlarni o'rnatish
 ```bash
@@ -14,3 +14,5 @@ Ishga Tushirish
 ```bash
 npm run dev
 ```
+
+<i>Nodejs</i>
