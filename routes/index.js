@@ -5,4 +5,6 @@ router.get("/", (req, res) => {
     res.send("<h1 style='color:azure; background-color:black;'>Home Page</h1>");
 });
 
-module.exports = router;
+module.exports = {
+    router;
+}
