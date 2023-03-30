@@ -1,4 +1,4 @@
-# Rest Server
+# Rest Api
 Serverni ishga tushirish
 loyihani klon qilib oling
 ```bash
