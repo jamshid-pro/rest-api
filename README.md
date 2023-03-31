@@ -3,7 +3,7 @@ Serverni ishga tushirish
 loyihani klon qilib oling
 ```bash
 git clone https://github.com/genezisuz/rest-server.git
-cd rest-server
+cd rest-api
 ```
 Dasturlarni o'rnatish
 ```bash
