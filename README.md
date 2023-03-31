@@ -1,6 +1,5 @@
 # Rest Api
-Serverni ishga tushirish
-loyihani klon qilib oling
+Serverni ishga tushirish uchun loyihani klon qilib oling
 ```bash
 git clone https://github.com/genezisuz/rest-server.git
 cd rest-api
